@@ -11,6 +11,8 @@ padding: 0;}
 
 
 #nHeader{
+	margin:0;
+	padding:0;
 	border-bottom-style:outset;
 	border-top-style: inset;
 	border-bottom-right-radius: 40px;
